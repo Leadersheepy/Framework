@@ -13,5 +13,12 @@ EXERCICETROISFREAMWORK ---> exercice sans Hive
 
 FRAMEWORKTROIS ----> exercice avec Hive
 
+-------------------------------------------
+
 EXERCICE 4 : Fait + Firebase
 ATTENTION LE DEVOIR EST SUR MASTER !!!! Celui sur le main n'est pas celui à jour
+
+https://github.com/Leadersheepy/Framework/tree/master
+
+Firebase : https://tp4-framework.web.app/#/
+-------------------------------------------
