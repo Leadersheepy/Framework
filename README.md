@@ -12,3 +12,5 @@ Toutefois il y a deux fichiers avec deux modèls différents ! (j'avais fait de 
 EXERCICETROISFREAMWORK ---> exercice sans Hive
 
 FRAMEWORKTROIS ----> exercice avec Hive
+
+EXERCICE 4 : Fait + Firebase
